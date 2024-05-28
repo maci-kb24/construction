@@ -1,4 +1,5 @@
 import Blog from './components/Blog'
+import Contact from './components/Contact'
 import Header from './components/Header'
 import Services from './components/Services'
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Services />
       <Blog />
+      <Contact />
     </div>
   )
 }
